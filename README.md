@@ -37,4 +37,12 @@ Outline for Central PA GIS Day (2023) presentation on Felt maps
   - Add Layers
   - Upload Anything (please [read the docs](https://feltmaps.notion.site/Upload-Anything-b26d739e80184127872faa923b55d232))
 
-
+## Working with Layers
+- Categories include General, Boundaries, Climate, Infrastructure, Nature & Exploration, and Science
+- Can request a layer via a form
+- Add layer via URL (Felt Menu > File > Upload from URL) ([read the docs](https://feltmaps.notion.site/Upload-Anything-b26d739e80184127872faa923b55d232#3e37f06bc38c4971b435fbff2f4da6cb)
+- - As docs reference "Upload Anything," this may technically count as an "Upload Anything" item.
+  - PA State Park Hiking Trails: https://www.gis.dcnr.state.pa.us/agsprod/rest/services/Parks/State_Parks/MapServer/4
+  - PA State Health Centers: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer/13
+  - USGS Hydrography: https://basemap.nationalmap.gov/arcgis/rest/services/USGSHydroCached/MapServer
+- Upload Anything
