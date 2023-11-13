@@ -43,6 +43,9 @@ Outline for my Central PA GIS Day (2023) presentation on Felt maps.  Event websi
 - Add layer via URL (Felt Menu > File > Upload from URL) ([read the docs](https://feltmaps.notion.site/Upload-Anything-b26d739e80184127872faa923b55d232#3e37f06bc38c4971b435fbff2f4da6cb)
 - - As docs reference "Upload Anything," this may technically count as an "Upload Anything" item.
   - PA State Park Hiking Trails: https://www.gis.dcnr.state.pa.us/agsprod/rest/services/Parks/State_Parks/MapServer/4
-  - PA State Health Centers: https://mapservices.pasda.psu.edu/server/rest/services/pasda/DepHealth/MapServer/13
-  - USGS Hydrography: https://basemap.nationalmap.gov/arcgis/rest/services/USGSHydroCached/MapServer
+  - PennDOT Park & Ride Locations: https://raw.githubusercontent.com/pmacMaps/build-maps-felt-gd23/main/Park_and_Ride_Facilities_PennDOT.geojson
+  - Historical Markers (PHMC): https://www.pasda.psu.edu/spreadsheet/PSU_HistoricalMarkers.csv
+  - Harrisburg City Elgible Historic Districts: https://services5.arcgis.com/9n3LUAMi3B692MBL/arcgis/rest/services/Eligible_Historic_Districts/FeatureServer/0
 - Upload Anything
+- Geocode spreadsheet of addresses
+- - York County Polling Places: https://york-county-pa-gis-portal-yorkcountypa.hub.arcgis.com/datasets/YorkCountyPA::polling-locations/about
