@@ -21,7 +21,7 @@ Outline for my Central PA GIS Day (2023) presentation on Felt maps.  Event websi
   - Option for solid color
   - Can add a custom URL from various providers (please [read the docs](https://feltmaps.notion.site/Custom-Map-Backgrounds-30f85a712250421fa53a193cdf097b6a))
   - PennDOT: https://gis.penndot.gov/arcgis/rest/services/basemaps/penndotbasemap/MapServer/tile/{z}/{y}/{x}
-  - USGS: https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}
+  - Stamen Water Color (requires Stadia Maps account): https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg 
 - View Menu
 - Address Search
 - Comments
