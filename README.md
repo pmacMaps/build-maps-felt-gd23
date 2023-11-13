@@ -1,5 +1,5 @@
-# build-maps-felt-gd23
-Outline for Central PA GIS Day (2023) presentation on Felt maps
+# Creating Maps Online: A Guided Tour of Felt
+Outline for my Central PA GIS Day (2023) presentation on Felt maps.  Event website is https://summits.harrisburgu.edu/gis/.  
 
 ## What is Felt?
 - A web browser platform for creating maps
